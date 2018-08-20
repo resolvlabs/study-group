@@ -35,9 +35,9 @@ npm test
 ```
 
 ## Participantes
- - Rodrigo Topan
- - Vinicius Martins
- - Vinicius Strauss
- - Danilo Pelozone 
+ - [Rodrigo Topan](@rodrigotopan)
+ - [Vinicius Martins](@viniciusmartinss)
+ - [Vinicius Strauss](@vinistrauss)
+ - [Danilo Pelozone](@daniloplima)
 
  #### Data: 17/08/2019
