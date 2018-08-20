@@ -35,9 +35,9 @@ npm test
 ```
 
 ## Participantes
- - [Rodrigo Topan](@rodrigotopan)
- - [Vinicius Martins](@viniciusmartinss)
- - [Vinicius Strauss](@vinistrauss)
- - [Danilo Pelozone](@daniloplima)
+ - [Rodrigo Topan](https://github.com/rodrigotopan)
+ - [Vinicius Martins](https://github.com/viniciusmartinss)
+ - [Vinicius Strauss](https://github.com/vinistrauss)
+ - [Danilo Pelozone](https://github.com/daniloplima)
 
  #### Data: 17/08/2019
