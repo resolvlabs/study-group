@@ -1,3 +1,17 @@
+// no codeship.com
+// em Setup Commands
+// adicionamos o mocha global (npm i -g mocha)
+// adicionamos a versão 8 do node, para nao dar pau com o mocha
+// nvm use 8
+
+// fomos em project settings / general, copiamos o codigo da badge
+// criamos um README.md e adicionamos o codigo
+
+// alteramos o package.json
+// para rodar o script do mocha
+// quando rodar o comando de test
+// npm test ou npm t
+
 // para subir para o github da forma correta
 // 1o git init
 // 2o -> criar arquivo para ignorar lixos do projeto

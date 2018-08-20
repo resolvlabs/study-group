@@ -1,0 +1,1 @@
+[ ![Codeship Status for ErickWendel/tdd-study-group](https://app.codeship.com/projects/f134bba0-86d2-0136-d478-3e27c1ec70f0/status?branch=master)](https://app.codeship.com/projects/302557)
