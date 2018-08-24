@@ -4,7 +4,7 @@
 
 // criamos uma conta na MLAB criamos uma database e um usuario
 // para invocar nossa função localmente
-// serverless invoke local -f heroes-create --data '{"body": {"nome": "Flash", "poder": "Velocidade"}}'
+// serverless invoke local -f heroes-create --data '{"nome": "Flash", "poder": "Velocidade"}'
 
 const { MongoClient } = require('mongodb');
 const hello = async (event, context) => {

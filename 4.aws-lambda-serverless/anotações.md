@@ -21,10 +21,10 @@
 
 - para configurar credenciais da AWS/AZURE/GCLOUD
 
-AWS_KEY=MINHA_KEY
-AWS_SECRET=MINHA_SECRET
-
 ```shell
+AWS_KEY=AKIAIBZ536NKBILZ4PYQ
+AWS_SECRET=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
+
 serverless config credentials --provider aws \
 --key $AWS_KEY \
 --secret $AWS_SECRET
@@ -34,3 +34,23 @@ serverless config credentials --provider aws \
 
 1. `serverless deploy` deploy de TODAS as funções
 2. `serverless deploy -f heroes-create` deploy de UMA função
+3. `serverless logs -f heroes-create` logs da funcao
+
+```shell
+GET -  https://7887ognis7.execute-api.us-east-1.amazonaws.com/erick/heroes
+POST - https://7887ognis7.execute-api.us-east-1.amazonaws.com/erick/heroes
+
+{
+ "nome": "Batman",
+ "poder": "Smart"
+}
+```
+
+## Participantes
+
+- [Rodrigo Topan](https://github.com/rodrigotopan)
+- [Vinicius Martins](https://github.com/viniciusmartinss)
+- [Vinicius Strauss](https://github.com/vinistrauss)
+- [Danilo Pelozone](https://github.com/daniloplima)
+
+#### Data:24/08/2019
