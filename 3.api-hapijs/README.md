@@ -26,4 +26,4 @@ DELETE - /heroes
 - [Vinicius Strauss](https://github.com/vinistrauss)
 - [Danilo Pelozone](https://github.com/daniloplima)
 
-#### Data: 20/08/2019
+#### Data: 20/08/2018

@@ -53,4 +53,4 @@ POST - https://7887ognis7.execute-api.us-east-1.amazonaws.com/erick/heroes
 - [Vinicius Strauss](https://github.com/vinistrauss)
 - [Danilo Pelozone](https://github.com/daniloplima)
 
-#### Data:24/08/2019
+#### Data:24/08/2018
