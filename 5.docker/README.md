@@ -83,7 +83,7 @@ heroes-api
 2. falamos a versão da nossa imagem
    `docker build -t erickwendel/heroes-api-erick:v1 .`
 
-## Podemos tag-a-la para uma nova imagem
+Ou podemos tag-a-la para uma nova imagem
 
 `docker tag existente novoNome`
 
