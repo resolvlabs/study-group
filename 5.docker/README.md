@@ -154,3 +154,15 @@ Desta forma, criamos um disco virtual na maquina local, para espelhar os dados
 
 Para ganhar um painel bonitão, colocamos uma interface, para visualizar nossas instancias do docker
 `PORTAINER`
+
+## Rodando
+
+- `docker-compose up`
+- Ir para `localhost:9000` e visualizar os containers
+
+## Participantes
+
+- [Rodrigo Topan](https://github.com/rodrigotopan)
+- [Vinicius Martins](https://github.com/viniciusmartinss)
+
+#### Data:04/09/2018
